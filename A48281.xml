@@ -1,0 +1,294 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true narrative of the case so much controverted between mistress Anna Levingston, daughter to Sir Charls Cæsar, and one of the grand-children of Sir Peter Vanlore the elder, and neece to the Lady Powel, and wife to Thomas Levingston esquire; and John Blunt and the Lady Sterlin his Wife, Sir Robert Crook and his wife, Henry Alexander alias Zinzan and his wife, and one Abraham Vandenbemde, and others; concerning the estate real and personal of the Lady Powel, late wife of Sir Edward Powel both deceased; eith the rise, growth, and proceedings of the differences touching the same.</title>
+            <author>Levingston, Anne.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48281</idno>
+            <idno type="STC">Wing L1825</idno>
+            <idno type="STC">ESTC R218104</idno>
+            <idno type="EEBO-CITATION">99829727</idno>
+            <idno type="PROQUEST">99829727</idno>
+            <idno type="VID">34170</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48281)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34170)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2009:02)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true narrative of the case so much controverted between mistress Anna Levingston, daughter to Sir Charls Cæsar, and one of the grand-children of Sir Peter Vanlore the elder, and neece to the Lady Powel, and wife to Thomas Levingston esquire; and John Blunt and the Lady Sterlin his Wife, Sir Robert Crook and his wife, Henry Alexander alias Zinzan and his wife, and one Abraham Vandenbemde, and others; concerning the estate real and personal of the Lady Powel, late wife of Sir Edward Powel both deceased; eith the rise, growth, and proceedings of the differences touching the same.</title>
+                  <author>Levingston, Anne.</author>
+                  <author>Stirling, Mary Vanlore Alexander, Countess of, d. ca. 1660.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1655?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Imperfect: severely cropped at head and foot with loss of text and signatures.</note>
+                  <note>Cf. Wing L1824: The state of the case in brief, between the Countess of Sterlin, .. and Mrs. Levingston, defendent.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Stirling, Mary Vanlore Alexander, --  Countess of, d. ca. 1660 --  Early works to 1800.</term>
+               <term>Levingston, Anne --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="case">
+            <pb facs="tcp:34170:1" rendition="simple:additions"/>
+            <head>A true Narrative of the CASE ſo much Controverted between Miſtreſs <hi>Anna Levingſton,</hi> Daughter to Sir <hi>Charls Caeſar,</hi> and one of the Grand-chil<g ref="char:EOLhyphen"/>dren of Sir <hi>Peter Vanlore</hi> the elder, and Neece to the Lady <hi>Powel,</hi> and Wife to <hi>Thomas Levingſton</hi> Eſquire; and <hi>John Blunt</hi> and the Lady <hi>Sterlin</hi> his Wife, Sir <hi>Robert Crook</hi> and his Wife, <hi>Henry Alexander</hi> alias <hi>Zinzan</hi> and his Wife, and one <hi>Abraham Vandenbemde,</hi> and others; concerning the Eſtate Real and Perſonal of the Lady <hi>Powel,</hi> late Wife of Sir <hi>Edward Powel</hi> both deceaſed; with the riſe, growth, and pro<g ref="char:EOLhyphen"/>ceedings of the Differences touching the ſame.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Ir <hi>Peter Vanlore,</hi> the Father,<note place="margin">3 <hi>Car.</hi>
+               </note> being owner of Two thou<g ref="char:EOLhyphen"/>ſand five hundred pounds <hi>per annum,</hi> and poſſeſſed of a great Perſonal Eſtate, did by Deed ſettle the Inheritance of part thereof (which is now controverted by the Lady <hi>Sterlin,</hi> Lady <hi>Crook,</hi> and Miſtreſs <hi>Alexander,</hi> the <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Daughters of Sir <hi>Peter Vanlore</hi> the yonger, Son of Sir <hi>Peter Vanlore</hi> the elder, now Petitioners in <hi>Parliament</hi>) upon his Daughter the Lady <hi>Powel;</hi> the reſt between her and yong Sir <hi>Peter Vanlore</hi> his Son, for their lives, and after to the Iſſue-male of his Son; and for want of Iſſue male of his Son to his Daughter <hi>Powel,</hi> and the iſſues of his Son (which are thoſe three Ladies) and of his ſeveral other Daughters children: Of which Daughters, one was the Lady <hi>Caeſar</hi> (Mother of Miſtreſs <hi>Levingston</hi>) an other the Lady <hi>Glemham,</hi> and the fourth, the Wife of <hi>John Vandenbemde,</hi> in ſeveral fifth parts, with an ex<g ref="char:EOLhyphen"/>preſs Proviſo, That if his Son (the Petitioners Father) or his Iſſues, ſhall any way by Suits, <hi>&amp;c.</hi> diſturb that ſettlement, that the Uſes limitted to him and his three Daughters the now Petitioners in Parliament ſhould ceaſe, and the Eſtate go to the other four parts.</p>
+            <p>By his Will after his Legacies (whereof One thouſand pound a peece was given to theſe three Petitioners) he gave all the <hi>reſiduum</hi> of his Perſonal Eſtate to the Lady <hi>Jacoba Vanlore</hi> his Wife and made her his Executrix <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>dren;
+<pb facs="tcp:34170:2"/>
+yet he enjoyed it till his death, he dying (with <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Iſſue-male) the Eſtate limited to him, came between the Lady <hi>Powel</hi> and the Grand-children in Fifth parts, which ſhe notwithſtanding (the breach of the Proviſo aforeſaid) permit<g ref="char:EOLhyphen"/>ted them quietly to enjoy. And theſe Petitioners have at this day thereby, and otherwiſe; One thouſand pound <hi>per annum</hi> of that Eſtate, beſides their One thouſand pound a peece Legacy, and other benefits.</p>
+            <p>The Lady <hi>Vanlore</hi> was prevailed with, to make one <hi>Thomas Crump</hi> (then a Menial ſervant to Sir <hi>Edward Powel,</hi> whom he took of a Boy) her ſole Executor, in truſt for her Daughter, the Lady <hi>Powel,</hi> and that ſhe ſhould diſpoſe of all that Eſtate (which was very great) at her pleaſure, excluding Sir <hi>Edward Powel</hi> her Husband to intermeddle therewith, and died <hi>Anno</hi> 1636.</p>
+            <p>
+               <hi>Crompton</hi> was too ſoon gotten unto a good opinion with the Lady; and ſoon after a conſpiracy was ſet on foot to procure a divorce between Sir <hi>Edward</hi> and his Lady, upon pretence of his incontinency with a leud woman; a proſecution was thereupon by <hi>Crompton,</hi> and one <hi>Jane Bradbury,</hi> and <hi>Katherine Pretty,</hi> his Fellow Conſpirators in the High Commiſſion Court (which was not a little countenanced by the late Archbiſhop;) but Sir <hi>Edward</hi> cleared himſelf, and the Conſpiracy was diſcovered and confeſſed by the Woman before her death, that was hired to condemn her ſelf, that ſhe might accuſe Sir <hi>Edward Powel.</hi>
+            </p>
+            <p>The next work was to procure the Lady to live apart from Sir <hi>Edward Powel</hi> at <hi>Chelſey,</hi> where <hi>Crompton</hi> managed and diſpoſed all her Eſtate at his plea<g ref="char:EOLhyphen"/>ſure; was become the Maſter of Coach, Footmen and ſervants; put what ſer<g ref="char:EOLhyphen"/>vants about her (of his poor kinred, and others) he pleaſed; purchaſed Land, Offices, and many Friends or Adherents with the Loan of theſe great ſums of money he was intruſted withal.</p>
+            <p>Then he fell to vex Sir <hi>Edward Powel</hi> with Suits (as a perſon truſted for the Lady <hi>Powel</hi>) at the Common Law, in Chancery, Court of Requeſts, and Coun<g ref="char:EOLhyphen"/>cil Table;<note place="margin">1641.</note> amongſt which, one came to hearing in Chancery, where his carri<g ref="char:EOLhyphen"/>age was proved to be ſuch, that the Lord Keeper, aſſiſted with four Judges, held him not a perſon fit to be allowed to proſecute for the Lady <hi>Powel</hi> (in a Court of Juſtice) againſt her Husband; and for that onely cauſe diſmiſt the Bill.</p>
+            <p>Then he procured the Lady to make a Declaration of the Eſtate according to her power, unto other perſons (engaged to him) as Sir <hi>Jo. Danvers,</hi> Mr. <hi>William Murrey</hi> of the Bed-chamber, Secretary <hi>Nicholas,</hi> and others; to the end, that <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſue in their names, ſeeing he could not in his own, for the reaſon a<g ref="char:EOLhyphen"/>foreſaid, and did ſo to Sir <hi>Edwards</hi> great vexation, againſt whom he obtained in their names divers Proces of Contempt, and Serjeants at Arms.</p>
+            <p>
+               <note place="margin">1642.</note>Then he got from the Lady a Declaration under her Hand and Seal of her whole Perſonal Eſtate (being all the <hi>reſiduum,</hi> both of Sir <hi>Peter Vanlores</hi> the elder, and his Ladies, and her own) to his own uſe (after her death) which he kept Dormant all her life time, but proſecuted violently againſt Sir <hi>Edward Powel</hi> (to get part of it that was in his hands) yet always profeſſed he was but a Steward for Miſtreſs <hi>Levingſton,</hi> to whom he ſaid he knew the Lady <hi>Powel</hi> her Aunt intended all her Eſtate.</p>
+            <p>In this time Sir <hi>Edward Powel</hi> ſeveral times got acceſs to his Wife (when <hi>Crompton</hi> was in the Country) and divers means were uſed by him to obtain a reconciliation; which by means of Friends and godly Divines, was ſometimes gotten for a while; but no ſooner was <hi>Crompton</hi> returned, but it was broken off again;<note place="margin">1647.</note> and in <hi>Anno</hi> 1647. it proceeded to an agreement under both their hands; but that alſo was fruſtrated by <hi>Crompton,</hi> and they ſeparated again as ſoon as he returned and Sir <hi>Edward</hi> ſo proſecuted with Proces of Con<gap reason="illegible" resp="#OXF" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>
+               <pb facs="tcp:34170:2"/>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of his Eſtate, (ſeeing they could not or <gap reason="illegible" resp="#OXF" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> a Petition was proſecuted by <hi>Crompton</hi> and <hi>Kath. Pretty</hi> to the Lords Commiſſi<g ref="char:EOLhyphen"/>oners of the Great Seal for Alimony, (although they had that great Eſtate amongſt them.) This brought Sir <hi>Edward Powel</hi> back again; and keeping him<g ref="char:EOLhyphen"/>ſelf private, beſought the Lords Commiſſioners (by his Nephew Mr. <hi>W. Powel</hi>) That a Reference might be made to ſome perſons of integrity and honor, to compoſe and end all differences between him and his wife; which was by their Lordſhips made to the Maſter of the Rolls, and Lieutenant-General <hi>Ludlow,</hi> who took pains therein, but through <hi>Crompton's</hi> default nothing could therein be effected.</p>
+            <p>Sir <hi>Edward Powel</hi> thus miſerably uſed and tired out with ſui<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and troubles <hi>Crompton</hi> thought it time now to attempt him (by means of one whom he im<g ref="char:EOLhyphen"/>ployed in his buſineſs) to join in a Fine with his Lady for ſetling her Real eſtate alſo upon <hi>Crompton;</hi> with promiſe of an end of his troubles, and the Land for his life, if he would ſo do. Which he abominating, and hearing alſo that his Lady was then ill, and himſelf through age not like to live long, became ex<g ref="char:EOLhyphen"/>ceedingly deſirous of a perfect reconciliation between him and his Lady, that they might (as he declared himſelf) die in peace and Chriſtian charity: And therefore reſolved to go himſelf to her to <hi>Chilſey</hi> where ſhe lived (in a houſe which he had bought about thirty years ſince) and to imploy his ſaid Nephew, then, and yet a Juſtice of Peace, (upon whom he had ſetled moſt of his Eſtate) to aſſiſt him in the compaſſing of that his intention; wherein he looked for (as he had always found) oppoſition from <hi>Crompton, Katherine Pretty, Jane Bradbury,</hi> and others, whom <hi>Crompton</hi> had placed about his Lady.</p>
+            <p>In order thereunto Mr. <hi>Powel,</hi> by his command and authority under his hand,<note place="margin">
+                  <hi>Sept.</hi> 3.</note> on the 3. of <hi>Septemb.</hi> 1651. went to <hi>Chelſey</hi> to acquaint his Lady therewith, and to provide accommodations for his reception. At which time Mr. <hi>Levingſton</hi> and his Wife were in the Chamber with her upon a Viſit; but <hi>Crompton</hi> then out of the houſe, upon notice thereof came ſuddenly in and endeavoured with ſome violence to hinder Mr. <hi>Powels</hi> acceſs to the Lady, which begat a ſcuffle between them: But at length ſhe underſtanding of his being there, he was re<g ref="char:EOLhyphen"/>ceived by her into her Chamber; where having kindly entertained him, and heard his meſſage, ſhe told him ſhe could not believe it, for that ſhe was aſ<g ref="char:EOLhyphen"/>ſured her Husband, his Uncle, was dead; (For ſo ſhe had been made by <hi>Crompton</hi> and his Agents to believe, and he had entred upon the Lands which Sir <hi>Edward</hi> held for her life in her right:) But being undeceived by relation of the truth thereof, ſhe in a very kind manner told him, That if her Husband pleaſed to come to her, he ſhould be welcome: And afterwards deſired him to perſwade his Uncle to joyn with her in the ſetling of her Eſtate according to her own minde, (which before he would never be gotten to do.) Whereupon Mr. <hi>Powel</hi> returned; and Mr. <hi>Levingſton</hi> and his Wife, at her deſire, (as they uſually did) ſtaid there that night, and the next day returned to their houſe at <hi>London.</hi> Miſtreſs <hi>Levingſton</hi> upon her return home, on Thurſday <hi>Septemb.</hi> 4. found there a Letter directed to her from Sir <hi>Edward Powel</hi> (who till then had been much a ſtranger to him, not having ſeen him in above three years before, and never thought herſelf in his good opinion) acquainting her with his in<g ref="char:EOLhyphen"/>tention to go to his Lady, and wiſhing her to acquaint ſome of her Kindred therewith, which accordingly ſhe did forthwith impart to <hi>Abraham Vanden<g ref="char:EOLhyphen"/>bemde</hi> the Ladies Nephew; and the next day (being Friday <hi>Septemb.</hi> 5, 1651.<note place="margin">
+                  <hi>Sept.</hi> 5.</note>) went again with him to her Aunt to acquaint her therewith; where the ſaid <hi>Katherine Pretty</hi> did in her hearing (with great aſſeverations) affirm to the Lady that Sir <hi>Edward Powel</hi> was dead, and that ſhe knew it to be ſo, and that the pretence of the contrary was but ſome trick to deceive her. In which con<g ref="char:EOLhyphen"/>fidence ſhe continued, until that about five of the clock in the afternoon Sir
+<gap reason="missing" extent="1 page">
+                  <desc>〈1 page missing〉</desc>
+               </gap>
+               <pb facs="tcp:34170:3"/>
+being with her) retired herſelf out of a Gallery ſhe was walking in; and after a little diſcourſe, they fell into a great kindneſs, which afterwards begat a per<g ref="char:EOLhyphen"/>fect reconciliation, complaining themſelves to each other of the former un<g ref="char:EOLhyphen"/>happineſs of their living apart; which kindneſs continued till the death of the Lady.</p>
+            <p>Sir <hi>Edward Powel</hi> (who look'd for <hi>Cromptons</hi> attempt to remove him from his Lady again) cauſed his doors to be kept ſhut, and removed from his Lady the ſaid <hi>Katherine Pretty, Joan Bradbury, Joan Oſwale (Crompton's</hi> Neece) <hi>Thomas Southwick</hi> his Groom, and ſome others, whom he knew would joyn with <hi>Crompton</hi> to his prejudice, and who had been active in carrying away his goods to a great value out of his houſe, as ſoon as they heard of his intention to come thither: and cauſed them, or ſome of them, to be arreſted by Mr. <hi>Crook</hi> the Under-Sheriff of <hi>Middleſex</hi> at his ſuit.</p>
+            <p>Sir <hi>Edward Powel</hi> had much the more reaſon to remove theſe people (being all Adherents to <hi>Crompton,</hi> and diſaffected to him, and to take care of his own ſecurity) for that he found in the houſe upon his entry ſeveral Evidences under <hi>Crompton's</hi> own hand, that he had been tampering with Sorcerers, and the like, touching the Calculation of Sir <hi>Edward's</hi> Nativity, and the time of his death, and found the Schemes and ſuch like trumpery, which manifeſted that wicked<g ref="char:EOLhyphen"/>neſs; and withall a Deed of Declaration, whereby <hi>Crompton</hi> had contrived to himſelf (after the Ladies death) all her Perſonal Eſtate aforeſaid, wherein yet was a power of Revocation.</p>
+            <p>
+               <hi>Crompton</hi> and his Complices thus excluded, fall to practiſing how to get in again, and to remove Sir <hi>Edward Powel</hi> from his Wife <hi>per fas aut nefas.</hi>
+            </p>
+            <p>Firſt, <hi>Abraham Vandenbemde</hi> (who for ſome rudeneſs on the Lords day in Sermon time, and abuſe to Sir <hi>Edward Powel,</hi> the Lady would not admit any longer) he gets to his party, and to become an Agent for him; ſeeing Sir <hi>Edward Powel</hi> refuſed to admit him, albeit he offered him his ſervice, and threatned, if he denied him, he would adhere to <hi>Crompton;</hi> and <hi>Crompton</hi> ſends alſo into the Country for the Lady <hi>Crook</hi> to act for him, whom ſhe called <hi>Son,</hi> and he her <hi>Mother,</hi> as appeared by Letters under her hand.</p>
+            <p>
+               <note place="margin">
+                  <hi>Sept.</hi> 6.</note>Saturday ſix <hi>September,</hi> he procures Sir <hi>John Danvers</hi> (an old enemy of Sir <hi>Edward Powels,</hi> and a great debtor to the ſtate with which <hi>Crompton</hi> was truſted, which he knew would be called in, if the Lady and her Husband a<g ref="char:EOLhyphen"/>greed) to ſend a Warrant, late on Saturday night, to the Sheriff of <hi>Middleſex</hi> to ſummon a Jury to enquire of a forceable Entry on the fifth of <hi>September,</hi> and detainer of the Houſe at <hi>Chelſey,</hi> before himſelf and two other Juſtices of the Peace, with a private Intimation to conceal the ſame from Sir <hi>Edward Powel,</hi> and Maſter <hi>Powel</hi> his Nephew (although it were meant of that Entry of Sir <hi>Edward Powels</hi> into his own Houſe, and to his own Wife as aforeſaid.) And on Monday morning the Jury appeared,<note place="margin">
+                  <hi>Sept.</hi> 8.</note> and an Indictment was according<g ref="char:EOLhyphen"/>ly preferred againſt Sir <hi>Edward Powel,</hi> and his Nephew Maſter <hi>Levingſton</hi> and his Wife (who were caſually there that day, upon a viſit with the Lady in her Chamber, and others) proſecuted by <hi>Crompton</hi> and his Complices (whom Sir <hi>Edward</hi> had turned and kept out of doors as aforeſaid) and after a full Evi<g ref="char:EOLhyphen"/>dence to the Jury, who knew the credit of the Witneſſes, being upon the place, and the buſineſs managed by eminent Counſel on the proſecutors part, no force was found either as to Entry or Detainer: At which time the Lady hearing of the Juſtices meeting, and of the ſcandal raiſed againſt her Husband, of uſing her ill, in keeping out her ſervants againſt her will, and the like, cauſed Mr. <hi>Le<g ref="char:EOLhyphen"/>vingſton</hi> in the preſence of ſeveral perſons to write a Declaration from her (who then was in Phyſick, and could not ſtir abroad) in teſtimony of the contrary, and in approbation of what was done; which ſhe put under her hand, and ſent to the
+<pb facs="tcp:34170:3"/>
+Colonel was made acquainted therewith from Sir <hi>Edward Power.</hi>
+            </p>
+            <p>Next he attempted (for rewards) to engage ſome of his Highneſs (then Lord Generals) Life-guard, to quarter there and be inſtrumental to his purpoſe; wherein by a ſecurity from his Highneſs under his hand and ſeal, that purpoſe of his was alſo fruſtrated.</p>
+            <p>Afterwards upon an old ſleeping Contempt in Chancery (which was diſ<g ref="char:EOLhyphen"/>charged) he unduly got Proceſs to a Serjeant at Arms, hoping that way to get Sir <hi>Edward</hi> carried away: But Mr. Serjeant <hi>Middleton</hi> diſcerning the practice, continued him a Priſoner with a Keeper in his own houſe, until the Lords Com<g ref="char:EOLhyphen"/>miſſioners met, who finding the abuſe diſcharged him.</p>
+            <p>Theſe practices cauſed Sir <hi>Edward Powel</hi> to entertain a ſervant or two more then formerly he had in his family; both to ſecure himſelf from ſuch attempts of <hi>Crompton,</hi> and to keep out his Complices, whom he found to be the Lady <hi>Crook</hi> and <hi>Vandenbemde</hi> (now deeply engaged with <hi>Crompton) Kath. Pretty, Joan Bradbury,</hi> and ſome others; but free acceſs was admitted to all others (as her Phyſicians, Apothecary, and divers of her Friends and other Viſitants) ſave ſuch as were known to adhere to <hi>Crompton.</hi>
+            </p>
+            <p>The Lady now perfectly reconciled to her husband (and that expreſſed by their receiving the holy Sacrament together) and much complaining of the great wrong and abuſe ſhe had ſuffered by means of <hi>Crompton</hi> and his Com<g ref="char:EOLhyphen"/>plices, particularly that they had carried away moſt of the goods out of her houſe, and declaring herſelf that ſhe was glad thoſe ſervants were gone, (for ſhe meant to put them away at Michaelmaſs) began to think of ſetling and diſ<g ref="char:EOLhyphen"/>poſing of her Eſtate.</p>
+            <p>Mrs. <hi>Levingſton</hi> (her Neece and God-daughter) was then with her, as ſhe frequently was at other times, took care of her (with much duty and pains in her ſickneſs) was the only perſon of her Kindred whom ſhe ſhewed any tender<g ref="char:EOLhyphen"/>neſs of affection unto. With Mrs. <hi>Levingſton</hi> ſhe often reſided both in the Country and at <hi>London,</hi> took ſpecial care of her from her childhood, and pro<g ref="char:EOLhyphen"/>miſed her Mother (the Lady <hi>Caeſar</hi>) on her death-bed, That (if ſhe had no child of her own) ſhe would make her her heir, and often after declared the ſame, and that ſhe loved her as her own child.</p>
+            <p>About thirteen days after (having prevailed with Sir <hi>Edward Powel</hi> to joyn with her in a Fine of the <hi>Deviſes</hi> Park in <hi>Wiltſhire,</hi>
+               <note place="margin">Sep<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> and that Fifth part whereof her Father had given her the Inheritance) ſhe cauſed Mr. Juſtice <hi>Warburton,</hi> one of the Judges of the Common-Pleas, to be entreated to come to her to <hi>Chelſey</hi> to take the acknowledgment thereof, which accordingly he did; where were preſent with the Judge Mr. <hi>William Gardiner</hi> (the Deputy-Secondary of the Common-Pleas) Mr. <hi>Thomas Haughton</hi> (Clerk of the Fines) and others, whom ſhe kindly entertained with a Banquet, and cheerful expreſſions at their parting.</p>
+            <p>She likewiſe about that time (having revoked the Deed which <hi>Crompton</hi> had gotten of her Perſonal Eſtate) ſealed another to the like purpoſe to Miſtreſs <hi>Levingſton</hi> her Neece, charging it with ſeveral payments after her death, and other diſpoſitions in the nature of a Will; and both ſhe and Sir <hi>Edward Powel</hi> her husband ſealed an Indenture declaring the Uſe of that Fine (of part after her death, and of other part after the death of her and Sir <hi>Edward Powel</hi>) unto Mrs. <hi>Levingſton</hi> and her heirs. Which Fine and Deeds being now com<g ref="char:EOLhyphen"/>plained of to be gotten while the Lady was under a force, and by practice with Sir <hi>Edward Powel;</hi> it is remarkable that the force was inviſible to the Judge and his Attendants (as they have often teſtified and depoſed) and Sir <hi>Edward Powel</hi> was not in any thing bettered by the Fines or Deed, having no other Eſtate limited to him thereby then an Eſtate for his life, in that part wherein he had ſo before the Fines levied, and was gaines in nothing thereby but in the <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb facs="tcp:34170:4"/>
+g<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, and <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>October</hi> uſed, and <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> year after Sir <hi>Edward Powel</hi> died alſo.</p>
+            <p>No ſooner was the Lady dead, but ſtrange practices were ſet on foot (by the potency of <hi>Cromptons</hi> purſe) who (as Executor to the Lady <hi>Vanlore,</hi> in truſt for the Lady <hi>Powel,</hi> and as manager for her) had all that great Perſonal Eſtate in his hands, and all was to wreſt from Miſtreſs <hi>Levingſton,</hi> both the Real Eſtate ſetled upon her by the Fines aforeſaid (by a Proſecution in the names of the Lady <hi>Crock,</hi> Lady <hi>Sterlin,</hi> and Miſtreſs <hi>Zinzan,</hi> as her Heirs at Law) and the Perſonal Eſtate intruſted as aforeſaid (by an old obliterated Deed which <hi>Cromp<g ref="char:EOLhyphen"/>ton</hi> ſet on foot, as made to himſelf for his own uſe in <hi>Anno</hi> 1642. long before that which himſelf had cauſed to be made with power of Revocation, and which was revoked as aforeſaid.) And by colour thereof, he detained the ſame to his death, and ſo doth yet <hi>Jean Oſwald</hi> his ſiſter and Adminiſtratrix (who was the Widow of one <hi>Oſwald,</hi> Sir <hi>Edward Powels</hi> Coachman) Miſtreſs <hi>Levingſton</hi> not having been able through manifold delays to bring her cauſe to heating for the ſame in Chancery.</p>
+            <p>Firſt, A Proviſo was (by the procurement of Sir <hi>John Danvers</hi> and ſome other debtors to the Eſtate, with which <hi>Crompton</hi> was truſted) gotten to be in<g ref="char:EOLhyphen"/>ſerted into the Act of Oblivion, amongſt the huddle of Proviſoes that came in together at the laſt paſſing of that Act, exempting from pardon <hi>Any offence that ſhall or may be made appear in the obtaining of any Deed or Fine from the Lady</hi> Powel <hi>in the moneth of</hi> September, 1651. Which was done purpoſely, and by deſign to caſt an aſperſion upon Miſtreſs <hi>Levingſtons</hi> Title to the ſaid Eſtate, and to make way for that which followed; ſeeing that no Petition or Complaint had then been in Parliament againſt theſe Fines or Deeds, and the Act it ſelf (in the Body of it) d<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d not extend to pardon any offence committed within that time, wherein the ſaid Fines were levied, and Deed ſealed.</p>
+            <p>Secondly, And in <hi>Michaelmas</hi> Term, 1651. before the ſaid Fines, and the Proclamations thereupon were paſt, Complaint was made in the Common Pleas (by the ſaid Coheirs) againſt them as gotten by force, fraud, and practice, to the end to ſtay the perfecting thereof, and ſuch was the earneſtneſs of that proſecution and the Affidavits of <hi>Crompton</hi> his Complices, that one of the Judges began to reſent ill the obtaining of them; but after, at leaſt ſixteen days Examination, both of matter of Fact, and matter in Law, and of at leaſt fifty Witneſſes in that <hi>Michaelmas</hi> and <hi>Hillary</hi> Term after, the ſaid Fines were by all and every one of the Judges of that Court, and (as they declared after Ad<g ref="char:EOLhyphen"/>vice taken with all the reſt of the Judges of <hi>England</hi>) finally ordered to be pro<g ref="char:EOLhyphen"/>ceeded in, and perfected: As by the Records of that Court appeareth in theſe words, <hi>viz.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="court_record">
+                        <p>
+                           <note place="margin">
+                              <gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ary, Feb. <hi>1.</hi>
+                           </note>THe Iuſtices here upon Conſideration and Adviſement had touching the ſaid Fines, and the Matters complained of againſt the ſame, Do this day declare their Opinions, and do order, that all former Rules for any manner of ſtay in perfecting the ſaid Fines, or the Proclamations thereupon be diſcharged; and that the ſaid Fines be procéeded in and per<g ref="char:EOLhyphen"/>fected together with the ſaid Proclamations, any former Rule to the con<g ref="char:EOLhyphen"/>trary thereof notwithſtanding. <hi>By the Court.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Thirdly, That in <hi>Hillary</hi> Term an Indictment was preferred for a Riot in Mr. <hi>Powels</hi> coming the third of <hi>September</hi> from his Uncle to ſpeak with the Lady <hi>Powel</hi> (when he was oppoſed by <hi>Crompton</hi> as aforeſaid) and by making Maſter <hi>Levingſton</hi> and his Wife (who were never out of the Ladies Chamber) and all other (ſave the Complices of <hi>Crompton</hi>) Defendants, and their Teſtimony be<g ref="char:EOLhyphen"/>ing thereby taken away; and <hi>Crompton, Pre<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Bradbury, Oſwald,</hi> and the reſt</p>
+            <p>
+               <pb facs="tcp:34170:4"/>Fourthly, And the ſame <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> (notwithſtanding no <gap reason="illegible" resp="#OXF" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> found by the Jury upon the place, and immediately upon the Entry of Sir <hi>Ed<g ref="char:EOLunhyphen"/>ward Powel</hi> as aforeſaid) yet another Indictment of Forceable detainer was pre<g ref="char:EOLhyphen"/>ferred by <hi>Crompton</hi> againſt Sir <hi>Edward Powel,</hi> Mr. <hi>Levingſton</hi> and his Wife, Mr. <hi>William Powel,</hi> and about twenty others (who were all that were in the houſe, or had relation to it) and about four years after, Sir <hi>Edward Powel</hi> being de<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, and the Title of the houſe not then known to the other Defendants, a Verdict upon the Teſtimony of the ſame perſons was gotten againſt Mr. <hi>Powel,</hi> and Mr. <hi>Levingſton</hi> and his Wife, who juſtified (Mr. <hi>Powel</hi> under the Title of his Uncle, and Mr. <hi>Levingſton</hi> and his Wife by the invitation of the Lady <hi>Powel</hi>) and all the reſt acquitted.</p>
+            <p>This happened by a neat trick of <hi>Cromptons,</hi> who now that Sir <hi>Edward Powel</hi> was dead (who could have cleared it) gave in Evidence a Title to himſelf in that Houſe, by vertue of a Fine which Sir <hi>Edward Powel</hi> had levied (to Bar an Intail above Six and twenty years before) unto <hi>Crompton</hi> then a youth in his ſervice, and to Maſter <hi>Blake</hi> (afterwards Sir <hi>William Blake,</hi> his Scrivener) both of that houſe, and all other his Lands in <hi>Middleſex,</hi> and which was mearly in truſt for himſelf, and the Lands, notwithſtanding always afterwards enjoyed by him and his Wife, and ſetled by him upon his Nephew in marriage; which propriety of <hi>Cromptons</hi> (in point of Law) made the De<g ref="char:EOLhyphen"/>tainer by Sir <hi>Edward</hi> of the Houſe (though his own in Equity) illegal, and ſo begat that Verdict.</p>
+            <p>Fifthly, To make all ſure, then the life of Miſtreſs <hi>Levingston</hi> was ſtruck at,<note place="margin">
+                  <hi>April.</hi> 1652.</note> and an Indictment was preferred againſt one <hi>Joan Peterſon,</hi> ſuggeſting that ſhe (by the procurement of Miſtreſs <hi>Levingston</hi> (who yet was made no party to it) had bewitched the Lady <hi>Powel</hi> to death, upon which <hi>Peterſon</hi> was tryed and acquitted. Howbeit upon another Indictment for bewitching one <hi>
+                  <gap reason="illegible" resp="#OXF" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ſon</hi> a Seaman (who was hid in a Chamber, and found alive two moneths after, and verified by Doctor <hi>Scarborough,</hi> and other learned Phyſitians, to have languiſh<g ref="char:EOLhyphen"/>ed of nothing but a ſickneſs in nature of a Calenture, and had been under the hands of Phyſitians for cure, eleven moneths before <hi>Peterſton</hi> knew him) that poor woman loſt her life; and <hi>Vandenbemde</hi> and others were heard to ſay, That had it not been to ſtrike at Miſtreſs <hi>Levingston</hi> life, ſhe ſhould not have been proſecuted for that: And <hi>Vandenbemde</hi> further confeſſed, That he, Sir <hi>Robert Crook,</hi> and others the Grand-children of Sir <hi>Peter Vanlore,</hi> had made a Covenant and bound it with an Oath, to live and die together in the proſecution of Miſtreſs <hi>Levingſton,</hi> or elſe to have the ſaid Eſtate from her.</p>
+            <p>Sixthly,<note place="margin">
+                  <hi>June.</hi> 1652.</note> An Indictment was by the Conſpiracy of <hi>Vandenbemde</hi> (and where<g ref="char:EOLhyphen"/>of he hath been ſince convicted) preferred againſt Miſtreſs <hi>Levingston</hi> her ſelf, ſuggeſting, That ſhe had poyſoned the Lady <hi>Powel</hi> to death, whereof ſhe was alſo acquitted: Dr. <hi>Bates,</hi> Dr. <hi>Goddard,</hi> Dr. <hi>Cullidon,</hi> her Phyſitians, Mr: <hi>Faucout</hi> her Apothecary, Mr. <hi>Stamford</hi> and Mr. <hi>Page</hi> the Surgeons that diſ<g ref="char:EOLhyphen"/>ſected her, having teſtified upon their Oaths, That the ſaid Lady <hi>Powel</hi>'s death was from natural and common diſeaſes, the Dropſie, Scurvy, Jaundies, and two Cancers in her Liver, and not from any preternatural cauſe.</p>
+            <p>Seventhly, Yet (from the ſame malice) was there in <hi>Trinity,</hi> 1652.<note place="margin">
+                  <hi>Trinity</hi> 1652.</note> another Indictment preferred againſt Miſtreſs <hi>Levingſton,</hi> and others, ſuggeſting, That ſhe by Sorcery, Witchcraft, and Love-powder, and other unlawful means, ſo obtained the love of the Lady <hi>Powel,</hi> that ſhe ſetled her Eſtate, both Real and Perſonal upon her; and was by thoſe unlawful means wrought upon, and pr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cured to levy ſeveral Fines, and execute ſeveral Deeds for that purpoſe; <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> otherwiſe ſhe would not have done. This Indictment being traverſed <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſpecial Jury returned for Tryal thereof the Proſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cutors (which were <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb facs="tcp:34170:5"/>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of Perjury to be framed againſt two of his own Wit<g ref="char:EOLhyphen"/>neſſes firſt produced by himſelf, and only croſs-examined by Mr. <hi>Levingſton,</hi> but thereby diſcovering his and <hi>Vandenbemde's</hi> foul practices &amp; conſpiracies, <hi>viz.</hi>
+            </p>
+            <p>One againſt <hi>Tho. Green,</hi> for ſwearing (as was pretended) that <hi>Vandenbemde</hi> put on a Scarf upon one <hi>Margaret Auſtin</hi> (a Begger) <hi>when ſhe went to give Evidence at a Trial againſt Mr. Levingſton) to make her appear a more con<g ref="char:EOLhyphen"/>ſiderable perſon then ſhe was:</hi> Whereas it was confeſſed and proved that he did put on ſuch Scarf at another time, and ſo the queſtion was only of the point of time; and three of the Jury who tryed that Cauſe, did depoſe, that they did not apprehend that he applied it to any time certain, nor did regard it ſo; yet a Ve<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dict was given againſt the ſaid <hi>Tho. Green,</hi> with which the Chief Juſtice <hi>Roll</hi> declared himſelf to be ſo ill ſatisfied, and the man to be wronged, that he would impoſe no impriſonment or other puniſhment on him, ſave ſome ſmall and in<g ref="char:EOLhyphen"/>conſiderable Fine for form ſake.</p>
+            <p>The other againſt one <hi>Mary Gibbs,</hi> his the ſaid <hi>Crompton's</hi> own Witneſs in Chancery, (and only croſs-examined by Mr. <hi>Levingſton</hi>) for depoſing that one <hi>Tho. Collet, Crompton's</hi> Sollicitor, was at ſuch a time at a Tavern with Mr. <hi>Van<g ref="char:EOLhyphen"/>denbemde</hi> &amp;c. Which although it was alſo depoſed by oath, yet <hi>Crompton</hi> at the Trial produced another very like <hi>Collet,</hi> and gave teſtimony to the Jury that it was he, and not <hi>Collet;</hi> whereupon a Verdict was gotten, to the diſſatiſ<g ref="char:EOLhyphen"/>faction alſo of the ſaid Lord Chief Juſtice <hi>Roll,</hi> as he openly declared.</p>
+            <p>In the interim the Lady <hi>Crook,</hi> Lady <hi>Sterling,</hi> and Mrs. <hi>Alexander,</hi> (who have acted all along with <hi>Crompton,</hi> and he in Parliament with them; and ſome of them, if not all, agreed to ſhare with him the Eſtate, and make a prey of Mrs. <hi>Levingſton</hi>) have been Petitioners in ſeveral Parliaments, and with <hi>Crompton's</hi> purſe, and his ſollicitings and Witneſſes, have put Mr. <hi>Levingſton</hi> to infinite expence before ſeveral Committees, even to the exhauſting of the Eſtate given to Mrs. <hi>Levingſton:</hi>
+            </p>
+            <p>But in Michaelmas Term 1655. finding their Error in complaining to the Parliament in matters remediable (if at all) by the ordinary courſe of Juſtice, they did exhibit their Bill in the High Court of Chancery againſt Mr. <hi>Levingſton</hi> and his wife, ſetting forth all the force, found and practice ſuppoſed to have been in obtaining the ſaid Fines and Deeds, and praying relief againſt the ſame; there (after a long Debate by Council on both ſides, <hi>and after a time taken and ad<g ref="char:EOLhyphen"/>viſement had by the then, and now Lords Commiſſioners of the Great Seal of England</hi>) that Court declared. That they were fully ſatisfied that there was no ſuch fraud or practice charged whereupon that Court could ground a Decree; and thereupon the ſaid Bill was diſmiſſed, that Diſmiſſion being ſigned inrolled and exemplified under the Great Seal of <hi>England.</hi> And ſo the Judgment of both the Great Courts of Law and Equity being paſſed therein, and above five years poſſeſſion (after thoſe and ſeveral other Fines levied and Recoveries had of the premiſſes) Mr. <hi>Levingſton</hi> and his wife, for payment of their Debts by them contracted (by the vexatious ſuits aforeſaid) in defence thereof, ſold the Lands to ſeveral Purchaſors for full and valuable conſideration.</p>
+            <p>And after all this, (And although the very words of their Bill in Chancery be, and the truth is ſo, <hi>That it is the proper object of a Court of Equity to give relief againſt all Conveyances obtained by practice, fraud and conſpiracie by ordering the parties to make a Reconveyance, and enjoyning the Cogniſees of Fines and all claiming under them or ſuch Deeds, not to give the ſame in Evidence;</hi>) <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Judgment of that Court hath paſſed thereupon as aforeſaid: Yet have <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſaid Lady <hi>Crook</hi> and her ſiſters again exhibited another Petition in this Par<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>t againſt the ſaid Fines and Deeds, upon the ſame ſuggeſtion of force and <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e obtaining thereof</p>
+         </div>
+      </body>
+   </text>
+</TEI>
